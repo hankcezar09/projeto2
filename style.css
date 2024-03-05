@@ -1,7 +1,10 @@
-header{
-    background-color: #424e61;
-    color:rgb(247, 142, 23) ;
-
+.cabecalho{
+    background-color: #9740df;
+    color: orange;
+   display: flex;
+   justify-content: space-around;
+   align-items :center;
+   padding: 24px 0 ;
 }
 
 .imagem-cabecalho{
