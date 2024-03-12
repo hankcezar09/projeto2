@@ -1,12 +1,26 @@
+style.css
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
 .cabecalho{
-    background-color: #9740df;
-    color: orange;
-   display: flex;
-   justify-content: space-around;
-   align-items :center;
-   padding: 24px 0 ;
+    background-color: #424e61;
+    color: rgb(243, 134, 10);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0 ;
 }
 
 .imagem-cabecalho{
     width: 25%;
 }
+.cabecalho-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+} 
